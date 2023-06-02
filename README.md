@@ -8,4 +8,4 @@ I'm currently learning more about Rust and WebAssembly
 
 Ask me about: public cloud development, containerization, distributed system design
 
-Fun fact: My first experience in tech was in highschool at the age of 17. I was appointed web master of my high school's public-facing website. Being webmaster was a part of my school's web design program. I was one of the few who completed the entire curriculum.
+Fun fact: My first experience in tech was in highschool at the age of 17. I was appointed web master of my high school's public-facing website. Being webmaster was a part of my school's web design program. I was one of the few who completed the entire curriculum before reaching senior year.
