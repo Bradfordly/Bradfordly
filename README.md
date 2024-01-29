@@ -7,6 +7,9 @@ I'm currently working on:
 * Enhancing Foundry VTT modules for my favorite TTRPGs
 * Learning more about Rust and WebAssembly
 
-Ask me about: public cloud development, containerization, distributed system design & architecture
+Ask me about:
+* Public cloud development
+* Containerization
+* Distributed system design & architecture
 
 Fun fact: My first experience in tech was in highschool at the age of 17. I was appointed web master of my high school's public-facing website. Being webmaster was a part of my school's web design program. I was one of the few who completed the entire curriculum before reaching senior year.
