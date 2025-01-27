@@ -12,4 +12,4 @@ Ask me about:
 * Containerization
 * Distributed system design & architecture
 
-Fun fact: My first experience in tech was in highschool at the age of 16. I was appointed web master of my high school's public-facing website. Being webmaster was a part of my school's web design program. I was one of the few who completed the entire curriculum before reaching senior year.
+Fun fact: My journey into tech began in high school where I was one of three students who completed the Computer Science elective track. Our senior project involved being the adminstrators of our school's public facing website and developing an interactive portal to browse historical school newspapers. When not working on JavaScript in school, I was working on Lua scripting to customize World of Warcraft mods (RIP Flexbar).
